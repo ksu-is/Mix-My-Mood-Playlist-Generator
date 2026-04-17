@@ -10,3 +10,10 @@ https://github.com/ksu-is/Mood-Mixer
 I reviewed how the code works and how it processes input to produce results. I was able to understand the overall structure.
 ## Use in My Project
 This codebase will help me build my mood-based playlist generator by using similar logic to match emotions with music recommendations.
+## Sprint 1 Tasks
+- [x] Create GitHub repository
+- [x] Develop project idea
+- [x] Find related Python repository
+- [x] Review and analyze codebase
+- [ ] Attempt to run the code
+- [ ] Plan features for playlist generator
