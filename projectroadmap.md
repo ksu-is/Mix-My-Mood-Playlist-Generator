@@ -1,6 +1,6 @@
 # Project Roadmap - Sprint 1
 ## Codebase Exploration
-I explored a Python project that focuses on organizing and recommending content based on user input. The project showed how data can be used to generate personalized results.
+I explored a Python project called "Mood-Mixer" that focuses on organizing and recommending music based on user input. The project showed how data can be used to generate personalized results. Overall it helps users discover music based on their current mood.
 https://github.com/ksu-is/Mood-Mixer
 ## What I Learned
 - Python can be used to build recommendation systems
