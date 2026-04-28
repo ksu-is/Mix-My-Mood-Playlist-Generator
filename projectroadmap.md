@@ -17,3 +17,10 @@ This codebase will help me build my mood-based playlist generator by using simil
 - [x] Review and analyze codebase
 - [ ] Attempt to run the code
 - [ ] Plan features for playlist generator
+## Sprint 2 Progress
+- [x] Created basic Python program structure
+- [x] Added stressed and relaxed mood options
+- [x] Improved playlist output formatting
+- [x] Added input validation
+- [ ] Expand song recommendations
+- [ ] Research Spotify integration
