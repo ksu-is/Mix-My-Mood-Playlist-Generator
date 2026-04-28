@@ -1,6 +1,8 @@
 moods = {
  "happy": ["Happy - Pharrell Williams"],
- "sad": ["Fix You - Coldplay"]
+ "sad": ["Fix You - Coldplay"],
+ "stressed": ["Weightless - Marconi Union"],
+ "relaxed": ["Better Together - Jack Johnson"]
 }
 
 choice = input("Choose a mood: ").lower()
