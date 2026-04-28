@@ -11,3 +11,6 @@ if choice in moods:
     print("Your playlist:")
     for song in moods[choice]:
         print(song)
+
+else:
+    print("Invalid mood entered.")        
