@@ -8,4 +8,6 @@ moods = {
 choice = input("Choose a mood: ").lower()
 
 if choice in moods:
-    print(moods[choice])
+    print("Your playlist:")
+    for song in moods[choice]:
+        print(song)
